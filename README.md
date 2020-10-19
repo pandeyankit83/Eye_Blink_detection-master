@@ -1,4 +1,5 @@
 # Eye_Blink_detection
+As part of this Repo i have created my own Eye blink Detection code that
 Detect if eye blink or not
 An eye is blinking when:
    The eyelid is closed
